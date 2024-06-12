@@ -1,0 +1,15 @@
+br\eduardo\trabpetdog\repositories\PelagemRepository.class
+br\eduardo\trabpetdog\services\CorService.class
+br\eduardo\trabpetdog\repositories\CachorroRepository.class
+br\eduardo\trabpetdog\services\CachorroService.class
+br\eduardo\trabpetdog\domain\Cor.class
+br\eduardo\trabpetdog\services\RacaService.class
+br\eduardo\trabpetdog\repositories\RacaRepository.class
+br\eduardo\trabpetdog\TrabPetDog.class
+br\eduardo\trabpetdog\exceptions\NegocioException.class
+br\eduardo\trabpetdog\repositories\CorRepository.class
+br\eduardo\trabpetdog\domain\Pelagem.class
+br\eduardo\trabpetdog\domain\Raca.class
+br\eduardo\trabpetdog\domain\Cachorro.class
+br\eduardo\trabpetdog\infraestructure\ConnectionFactory.class
+br\eduardo\trabpetdog\services\PelagemService.class
